@@ -1,17 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=istok+web&weight=300&size=35&pause=1000&color=E0E0E0&background=37373746&center=true&repeat=false&random=false&width=850&height=200&lines=Welcome+to+my+Github+profil+👩🏻‍💻 )](https://git.io/typing-svg)
 
 # About me🌸
-Hello everyone 🌸 My name is Cecilia, I am currently training at Simplon Marseille, I specialize in web & mobile developer I am looking for an internship from February 7 to March 15, 2024.
+Hello everyone ~ My name is Cecilia, I am currently training at Simplon Marseille, I specialize in web & mobile developer I am looking for an internship from February 7 to March 15, 2024
 
-<img src="https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" style="max-width: 100;">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="NodeJS" data-canonical-src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100;"></a>
-
-
-Une petite description du projet
-
-## Pour commencer
-
-Entrez ici les instructions pour bien débuter avec votre projet...
+## Skill
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
 
 ### Pré-requis
 
